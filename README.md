@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&random=false&width=435&lines=Olá...+eu+sou,+Ralf+🦜)](https://git.io/typing-svg)
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6CF799&random=false&width=435&lines=Sejam+bem-vindos+ao+meu+perfil+😁" alt="Typing SVG" /></a>
+
+[![Ralf's GitHub stats](https://github-readme-stats.vercel.app/api?username=FistDark)](https://github.com/FistDark/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FistDark)](https://github.com/FistDark/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FistDark&repo=github-readme-stats)](https://github.com/FistDark/github-readme-stats)
+
 <!--
 **FistDark/FistDark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +22,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&random=false&width=435&lines=Olá...+eu+sou,+Ralf+🦜)](https://git.io/typing-svg)
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6CF799&random=false&width=435&lines=Sejam+bem-vindos+ao+meu+perfil+😁" alt="Typing SVG" /></a>
