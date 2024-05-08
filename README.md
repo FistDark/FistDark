@@ -1,11 +1,8 @@
-![3Q85](https://github.com/FistDark/FistDark/assets/13612870/036596a1-c1e7-42a8-9d24-f203749996f5)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=47F7AF&center=true&random=false&width=435&lines=Hello+friend...+%F0%9F%91%8B;Eu+sou+o+Ralf+%F0%9F%A6%9C;Sejam+bem-vindos+ao+meu+perfil+%F0%9F%98%81)](https://git.io/typing-svg)
 
-### Hello friend... 👋
+##
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&random=false&width=435&lines=Olá...+eu+sou,+Ralf+🦜)](https://git.io/typing-svg)
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=6CF799&random=false&width=435&lines=Sejam+bem-vindos+ao+meu+perfil+😁" alt="Typing SVG" /></a>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=3FAFF7&random=false&width=435&lines=Estou+em+constante+aprendizado+%F0%9F%A4%93;Acompanhe+meu+perfil%2C+se+quiser+%F0%9F%98%89)](https://git.io/typing-svg)
 
 ![Ralf's GitHub stats](https://github-readme-stats.vercel.app/api?username=FistDark&show_icons=true&theme=dark)
 
