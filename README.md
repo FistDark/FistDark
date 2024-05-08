@@ -2,7 +2,7 @@
 
 ##
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=3FAFF7&random=false&width=435&lines=Estou+em+constante+aprendizado+%F0%9F%A4%93;Acompanhe+meu+perfil%2C+se+quiser+%F0%9F%98%89)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=3FAFF7&random=false&width=435&lines=Estou+em+constante+aprendizado+%F0%9F%A4%93;Acompanhe+meu+perfil%2C+mas+s%C3%B3+se+vc+quiser+%F0%9F%98%89)](https://git.io/typing-svg) 
 
 ![Ralf's GitHub stats](https://github-readme-stats.vercel.app/api?username=FistDark&show_icons=true&theme=dark)
 
