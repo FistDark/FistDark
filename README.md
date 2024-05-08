@@ -2,7 +2,7 @@
 
 ##
 
-![4QYc.gif](https://github.com/FistDark/FistDark/assets/13612870/d56c2878-cf17-44e1-aa06-f273d52c6e94
+<-- [4QYc.gif](https://github.com/FistDark/FistDark/assets/13612870/d56c2878-cf17-44e1-aa06-f273d52c6e94
 
 ##
 
