@@ -1,3 +1,5 @@
+![3Q85](https://github.com/FistDark/FistDark/assets/13612870/036596a1-c1e7-42a8-9d24-f203749996f5)
+
 ### Hello friend... 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&random=false&width=435&lines=Olá...+eu+sou,+Ralf+🦜)](https://git.io/typing-svg)
