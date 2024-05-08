@@ -2,8 +2,6 @@
 
 ##
 
-<-- [4QYc.gif](https://github.com/FistDark/FistDark/assets/13612870/d56c2878-cf17-44e1-aa06-f273d52c6e94
-
 ##
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=3FAFF7&random=false&width=435&lines=Estou+em+constante+aprendizado+%F0%9F%A4%93;Acompanhe+meu+perfil%2C+mas+s%C3%B3+se+vc+quiser+%F0%9F%98%89)](https://git.io/typing-svg) 
