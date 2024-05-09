@@ -1,10 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=47F7AF&center=true&random=false&width=435&lines=Hello+friend...+%F0%9F%91%8B;Eu+sou+o+Ralf+%F0%9F%A6%9C;Sejam+bem-vindos+ao+meu+perfil+%F0%9F%98%81)](https://git.io/typing-svg)
 
 ##
-
+![4QYc](https://github.com/FistDark/FistDark/assets/13612870/5f3b3241-ed91-4671-9d3b-fb1261fb40ab)
 ##
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=3FAFF7&random=false&width=435&lines=Estou+em+constante+aprendizado+%F0%9F%A4%93;Acompanhe+meu+perfil%2C+mas+s%C3%B3+se+vc+quiser+%F0%9F%98%89)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Acompanhem+minha+jornada+;e+fiquem+%C3%A0+vontade+;para+fazer+parte+dela+%F0%9F%A4%97)](https://git.io/typing-svg)
 
 ![Ralf's GitHub stats](https://github-readme-stats.vercel.app/api?username=FistDark&show_icons=true&theme=dark)
 
