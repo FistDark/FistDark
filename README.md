@@ -7,29 +7,27 @@
 ![4QYc](https://github.com/FistDark/FistDark/assets/13612870/5f3b3241-ed91-4671-9d3b-fb1261fb40ab)
 ##
 
+- 🔭 I’m currently working on... technical support analyst (pq fica mais bonito em inglês 😁).
+
+- 🌱 I’m currently learning... desenvolvimento web, o básico de cibersegurança e cursando TI.
+
+- 👯 I’m looking to collaborate on... TechVersobr, uma comunidade minha com amigos da facul.
+
+- 🤔 I’m looking for help with... desenvolvimento web, python e futuramente com cyber.
+
+- 💬 Ask me about: o que tu quiser, estamos aqui pra isso xD 
+
+- 📫 How to reach me: fistd4rk@gmail.com
+
+- 😄 Pronouns: Ele/Dele
+
+- ⚡ Fun fact: Eu não me chamo Ralf rsrs, vejam meu LinkedIn 🤭
+
+##
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&center=true&random=false&width=435&lines=Acompanhem+minha+jornada+;e+fiquem+%C3%A0+vontade+;para+fazer+parte+dela+%F0%9F%A4%97)](https://git.io/typing-svg)
 
 ![Ralf's GitHub stats](https://github-readme-stats.vercel.app/api?username=FistDark&show_icons=true&theme=dark)
 
-<!-- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FistDark)](https://github.com/FistDark/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FistDark&repo=github-readme-stats)](https://github.com/FistDark/github-readme-stats)
 
-<!--
-**FistDark/FistDark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ![Paz](https://github.com/FistDark/FistDark/assets/13612870/91ac2885-d044-4127-bcbe-a1ca5611404b)
-
-
-
