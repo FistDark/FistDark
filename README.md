@@ -1,3 +1,6 @@
+
+![MiniPsita8bit](https://github.com/FistDark/FistDark/assets/13612870/8c9a24ae-2189-4ae0-9618-f6378d20467b)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=47F7AF&center=true&random=false&width=435&lines=Hello+friend...+%F0%9F%91%8B;Eu+sou+o+Ralf+%F0%9F%A6%9C;Sejam+bem-vindos+ao+meu+perfil+%F0%9F%98%81)](https://git.io/typing-svg)
 
 ##
@@ -27,3 +30,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Paz](https://github.com/FistDark/FistDark/assets/13612870/91ac2885-d044-4127-bcbe-a1ca5611404b)
+
+
+
