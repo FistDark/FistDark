@@ -26,8 +26,8 @@
 ##
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&center=true&random=false&width=435&lines=Acompanhem+minha+jornada+;e+fiquem+%C3%A0+vontade+;para+fazer+parte+dela+%F0%9F%A4%97)](https://git.io/typing-svg)
-##
+
 ![Ralf's GitHub stats](https://github-readme-stats.vercel.app/api?username=FistDark&show_icons=true&theme=dark)
 
-
+##
 ![Paz](https://github.com/FistDark/FistDark/assets/13612870/91ac2885-d044-4127-bcbe-a1ca5611404b)
