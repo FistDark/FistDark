@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning... desenvolvimento web, o básico de cibersegurança e cursando TI.
 
-- 👯 I’m looking to collaborate on... TechVersobr, uma comunidade minha com amigos da facul.
+- 👯 I’m looking to collaborate on... TechVersobr, uma comunidade minha com amigos da faculdade.
 
 - 🤔 I’m looking for help with... desenvolvimento web, python e futuramente com cyber.
 
